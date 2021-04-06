@@ -14,7 +14,7 @@
 
 <br><br>
 
-<div id="result" style="border: 1px solid red; posion: relative;"></div>
+<div id="result"></div>
 
 <script>
 	$(document).ready(function(){

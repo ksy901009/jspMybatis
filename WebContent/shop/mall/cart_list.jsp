@@ -40,7 +40,7 @@
 					<c:forEach var="dto" items="${list }">
 						<tr>
 							<td align="center">
-								<input type="checkbox" id="checkNo" name="checkNo" onchange="priceCalculator(event, '${dto.buy_money }');" value="${dto.no }">${jj } : no : ${dto.no }
+								<input type="checkbox" id="checkNo" name="checkNo" onchange="priceCalculator(event, '${dto.buy_money }');" value="${dto.no }">
 							</td>
 							<td>
 								<c:choose>

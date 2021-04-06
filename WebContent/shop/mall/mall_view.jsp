@@ -10,7 +10,7 @@
 <body>
 <table border="1" align="center" width="80%">
 	<tr>
-		<td colspan="2"><h1>Shopping Mall</h1></td>
+		<td colspan="2"><h1>상품정보 상세보기</h1></td>
 	</tr>
 	<tr>
 		<td width="150">상품코드 : </td>

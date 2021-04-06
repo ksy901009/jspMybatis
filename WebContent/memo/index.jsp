@@ -20,5 +20,5 @@
 	<input type="button" id="btnUpdate" value="수정">
 	<p>
 </div>
-<div id="result" style="border: 1px solid red; position: relative;"></div>
+<div id="result"></div>
 <%@ include file="../memo/_memo.jsp" %>

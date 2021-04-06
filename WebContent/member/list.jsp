@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
-<%@ include file="../include/inc_header.jsp" %>
+<%@ include file="../include/inc_sessionChk.jsp" %>
 <table border="1" align="center" width="100%">
 	<tr>
 		<td colspan="11"><h2>회원목록</h2></td>

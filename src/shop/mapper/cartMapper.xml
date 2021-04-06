@@ -40,6 +40,7 @@ PUBLIC "-//mybatis.org/DTO Mapper 3.0//EN"
 		
 		) A, product p where A.productNo = p.no)
 		where rnum between #{startRecord} and #{lastRecord}
+		order by no desc
 	</select>
 	
 	<select id="getSelectOne" resultType="shop.model.dto.ProductDTO">

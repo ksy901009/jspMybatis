@@ -14,7 +14,7 @@ search_date_s : <span id="span_search_date_s">${search_date_s }</span><br>
 search_date_e : <span id="span_search_date_e">${search_date_e }</span><br>
 path : <span id="span_path">${path }</span><br>
 </div>
-<div id="result" style="border: 1px solid red; position: relative;"></div>
+<div id="result"></div>
 <%@ include file="../survey/_survey.jsp" %>
 
 <script>

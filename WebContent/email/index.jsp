@@ -3,7 +3,7 @@
     
 <%@ include file="../include/inc_header.jsp" %>
 
-<div id="result" style="border: 1px solid red; position: relative;"></div>
+<div id="result"></div>
 asdasds
 <script>
 	$(document).ready(function(){

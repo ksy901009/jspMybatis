@@ -9,5 +9,5 @@
 	search_data : <span id="span_search_data">${search_data }</span><br>
 	path : <span id="span_path">${path }</span><br>
 </div>
-<div id="result" style="border: 1px solid red; position: relative;"></div>
+<div id="result"></div>
 <%@ include file="../guestBook/_guestBook.jsp" %>

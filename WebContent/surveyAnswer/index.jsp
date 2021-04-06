@@ -16,5 +16,5 @@ path : <span id="span_path">${path }</span><br><br>
 
 span_answer : <span id="span_answer"></span>
 </div>
-<div id="result" style="border: 1px solid red; position: relative;"></div>
+<div id="result"></div>
 <%@ include file="../surveyAnswer/_surveyAnswer.jsp" %>

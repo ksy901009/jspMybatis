@@ -9,7 +9,7 @@
 	search_option : <span id="span_search_option">${search_option }</span><br>
 	search_data : <span id="span_search_data">${search_data }</span><br>
 </div>
-<div id="result" style="border: 1px solid red; position: relative;"></div>
+<div id="result"></div>
 <script>
 	$(document).ready(function() {
 		<c:if test="${menu_gubun == 'product_index' }">
